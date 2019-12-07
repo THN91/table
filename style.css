@@ -1,0 +1,11 @@
+.asc:after {
+    content: " ↑";
+}
+.desc:after {
+    content: " ↓";
+}
+.url {
+    border: 1px solid red;
+    width: 770px;
+    height: 20px;
+}
